@@ -1,0 +1,22 @@
+.biblebody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url('./biblebg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -84px;
+}
+
+.button {
+    border-radius: 50px;
+    padding: 10px;
+}

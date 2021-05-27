@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    background: url('https://s7d2.scene7.com/is/image/TWCNews/1031_nc_sunny_weather_2-1');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    margin-top:-20px;
+}
+
+.body.cold {
+    background: url('https://www.vascularhealthclinics.org/wp-content/uploads/2018/10/cold-weather-and-cardiovascular-disease.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.searchbox {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    
+}
+
+
+.searchbar {
+    display: block;
+    width: 20%;
+    padding: 15px;
+    appearance: none;
+    background: none;
+    border: none;
+    margin-top: 100px;
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 0px 0px 16px 16px;
+    box-shadow: 0px 5px rgba(0,0,0,0.2);
+    border: 0.3px solid black;
+    transition: 0.7s ease;
+}
+
+.searchbar:focus{
+    background-color: rgba(255,255,255, 0.95);
+    outline: none;
+}
+
+ 
+.location {
+    color: #FFF;
+    font-size: 50px;
+    font-weight: 500;
+    text-align:center;
+    text-shadow: 3px 2px rgba(50,50,70,0.5);
+}
+
+.date {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 3px 2px rgba(50,50,70,0.5);
+}
+
+.weather {
+    text-align: center;
+}
+
+.weather .temp {
+    position: relative;
+    display: inline-block;
+    margin: 30px auto;
+    background-color: rgba(255,255,255,0.2);
+    border-radius: 10px;
+    padding: 15px 25px;
+
+    font-size: 120px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(50,50,70,0.5);
+    text-align:center;
+    box-shadow: 3px 6px rgba(0,0,0,0.2)
+}
+
+.weather .forecast {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 700;
+    text-shadow: 2px 2px rgba(500,50,70,0.5)
+}

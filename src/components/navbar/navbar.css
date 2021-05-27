@@ -1,0 +1,37 @@
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center; 
+    margin: 15% auto;
+    justify-content: space-evenly;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.icons .navicons {
+    width:40px;
+    height: 40px;
+}
+
+#home:hover {
+    transform: scale(1.2)
+}
+
+#crypto:hover {
+    transform: scale(1.2)
+}
+
+#weather:hover {
+    transform: scale(1.2)
+}
+
+#bible:hover {
+    transform: scale(1.2)
+}
+
