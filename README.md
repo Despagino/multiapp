@@ -4,7 +4,7 @@
 - Project code is pushed to a public Git repository
 - The code should be written in ES6 as much as possible
 - Use the create-react-app generator to start your project 
-- Makes use of React Router (install react-router-dom), and Redux (install redux react-redux)
+- Makes use of React Router (install react-router-dom)
 - There should be 2 container components 
 - There should be 5 stateless components
 - There should be 3 or more routes
@@ -19,11 +19,19 @@
 
 
 
-## Purpose of this Project
+## App Description
 --- 
 
 
+--- 
+## Purpose of this Project
 
+---
+
+## End-User
+
+
+---
 Project Screen Shots
 Example:
 ![Screen Shot 2021-05-25 at 2 13 22 PM](https://user-images.githubusercontent.com/80994897/119766572-430f4700-be83-11eb-8681-fc239172581e.png)
