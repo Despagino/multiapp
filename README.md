@@ -19,9 +19,12 @@
 
 
 
-## App Description
+## Project Description
 --- 
 
+A website with a built in Crypto, Weather and Bible app. Built using React with Material for animations and layout, CSS, and React router to direct to the different apps. 
+
+# Crypto
 
 --- 
 ## Purpose of this Project
