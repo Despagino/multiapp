@@ -1,8 +1,8 @@
-React Multi App Project:
+**React Multi App Project:**
 
 3 applications embedded and connected using React Routers, built with React, Material, and CSS.
-
-Project Status:
+**
+Project Status:**
 Almost production level
 
 
