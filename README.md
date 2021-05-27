@@ -25,17 +25,17 @@ A website with a built in Crypto, Weather and Bible app. Built using React with 
 
 ![projectgif](https://user-images.githubusercontent.com/80994897/119861204-1ee45200-bee5-11eb-803d-11a6db24b9be.gif)
 
-### Crypto
+## Crypto
 ---
 Search for your favorite crypto and see how much money you're making. 
 ![Screen Shot 2021-05-25 at 2 13 22 PM](https://user-images.githubusercontent.com/80994897/119766572-430f4700-be83-11eb-8681-fc239172581e.png)
 
-### Weather
+## Weather
 ---
 Ever curious what the weather is like in a foreign country? Search for your city by using this weather app.
 ![Screen Shot 2021-05-25 at 3 10 45 PM](https://user-images.githubusercontent.com/80994897/119766583-4aceeb80-be83-11eb-9707-3c07af1dfe69.png)
 
-### Bible
+## Bible
 ---
 A random verse from the bible with just a click of a button
 <img width="1127" alt="Screen Shot 2021-05-27 at 12 03 29 PM" src="https://user-images.githubusercontent.com/80994897/119859810-b47ee200-bee3-11eb-8027-395cab9807c0.png">
