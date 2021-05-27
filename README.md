@@ -27,7 +27,7 @@ A website with a built in Crypto, Weather and Bible app. Built using React with 
 
 ## Crypto
 
-Search for your favorite crypto and see how much money you're making. 
+Search for your favorite crypto and see how much money you're making. This makes it easier for you to only get the necessary data you need such as price, volume, marketcap and more. 
 ![Screen Shot 2021-05-25 at 2 13 22 PM](https://user-images.githubusercontent.com/80994897/119766572-430f4700-be83-11eb-8681-fc239172581e.png)
 
 ## Weather
@@ -37,19 +37,16 @@ Ever curious what the weather is like in a foreign country? Search for your city
 
 ## Bible
 
-A random verse from the bible with just a click of a button
+A random verse from the bible with just a click of a button.
 <img width="1127" alt="Screen Shot 2021-05-27 at 12 03 29 PM" src="https://user-images.githubusercontent.com/80994897/119859810-b47ee200-bee3-11eb-8027-395cab9807c0.png">
 
+## Purpose
 
-## Purpose of this Project
+Having multiple apps on your phone can get very messy. With this website, you have all your neeeded apps in one go.
 
+OR
 
+The apps created are very essential to someone who is invested into the crypto market. Since the market is very volatile, you will get very stressed and you will need a piece of enlightenment and the will to live by reading a verse from the bible or know the weather outside so you can get a breath of fresh air. 
 
-## End-User
-
-
-
-Project Screen Shots
-Example:
 
 
