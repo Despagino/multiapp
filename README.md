@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Project Requirements
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Project must be approved by Instructor approval at the start of project week
+- Project code is pushed to a public Git repository
+- The code should be written in ES6 as much as possible
+- Use the create-react-app generator to start your project 
+- Makes use of React Router (install react-router-dom)
+- There should be 2 container components 
+- There should be 5 stateless components
+- There should be 3 or more routes
+- The Application must make use of react-router and proper RESTful routing 
+- Your client-side application should handle the display of data with minimal data manipulation
+- Uses CSS to style your application
+- Frontend uses AJAX (fetch) requests 
+- Application has at least 2 unique APIs (should be related in some way)
+- Has README.md file at the root of repository
+- readme file clearly documents the purpose of the project as a problem statement
+- readme file clearly documents the target end user for this project
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+# Project Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+A website with a built in Crypto, Weather and Bible app. Built using React with Material for animations and layout, CSS, and React router to direct to the different apps. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![projectgif](https://user-images.githubusercontent.com/80994897/119861204-1ee45200-bee5-11eb-803d-11a6db24b9be.gif)
 
-### `npm test`
+## Crypto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Search for your favorite crypto and see how much money you're making. This makes it easier for you to only get the necessary data you need such as price, volume, marketcap and more. 
+![Screen Shot 2021-05-25 at 2 13 22 PM](https://user-images.githubusercontent.com/80994897/119766572-430f4700-be83-11eb-8681-fc239172581e.png)
 
-### `npm run build`
+## Weather
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Ever curious what the weather is like in a foreign country? Search for your city by using this weather app.
+![Screen Shot 2021-05-25 at 3 10 45 PM](https://user-images.githubusercontent.com/80994897/119766583-4aceeb80-be83-11eb-9707-3c07af1dfe69.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Bible
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A random verse from the bible with just a click of a button.
+<img width="1127" alt="Screen Shot 2021-05-27 at 12 03 29 PM" src="https://user-images.githubusercontent.com/80994897/119859810-b47ee200-bee3-11eb-8027-395cab9807c0.png">
 
-### `npm run eject`
+## Purpose
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Having multiple apps on your phone can get very messy. With this website, you have all your neeeded apps in one go.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+OR
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+The apps created are very essential to someone who is invested into the crypto market. Since the market is very volatile, you will get very stressed and you will need a piece of enlightenment and the will to live by reading a verse from the bible or know the weather outside so you can get a breath of fresh air. 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
