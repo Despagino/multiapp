@@ -19,4 +19,5 @@
 .button {
     border-radius: 50px;
     padding: 10px;
+    outline: none;
 }

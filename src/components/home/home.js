@@ -43,7 +43,6 @@ const Home = () => {
                 </div>
             </Scroll>
             <GoApp checked={checked} />
-
             <AboutMe />
 
         </>

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
@@ -30,13 +30,16 @@ export default function BibleVerses({ buttonfunction, verse, book, version }) {
                             height="140"
                             image="https://www.crossroadsinitiative.com/wp-content/uploads/2019/02/noahs-ark-facebook.jpg"
                         />
+                        
                         <CardContent>
+                        <hr />
                             <Typography gutterBottom variant="h5" component="h2">
                                 {book} {version}
                             </Typography>
                             <Typography variant="body2" color="textSecondary" component="p">
                                 {verse}
                             </Typography>
+                            
                         </CardContent>
 
                     </Card>
