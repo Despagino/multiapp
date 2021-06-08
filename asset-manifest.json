@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/multiapp/static/css/main.f92c3e75.chunk.css",
+    "main.js": "/multiapp/static/js/main.6aa95582.chunk.js",
+    "main.js.map": "/multiapp/static/js/main.6aa95582.chunk.js.map",
+    "runtime-main.js": "/multiapp/static/js/runtime-main.4a9dfd59.js",
+    "runtime-main.js.map": "/multiapp/static/js/runtime-main.4a9dfd59.js.map",
+    "static/js/2.8a3a94eb.chunk.js": "/multiapp/static/js/2.8a3a94eb.chunk.js",
+    "static/js/2.8a3a94eb.chunk.js.map": "/multiapp/static/js/2.8a3a94eb.chunk.js.map",
+    "index.html": "/multiapp/index.html",
+    "static/css/main.f92c3e75.chunk.css.map": "/multiapp/static/css/main.f92c3e75.chunk.css.map",
+    "static/js/2.8a3a94eb.chunk.js.LICENSE.txt": "/multiapp/static/js/2.8a3a94eb.chunk.js.LICENSE.txt",
+    "static/media/bible.css": "/multiapp/static/media/biblebg.4fb115c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a9dfd59.js",
+    "static/js/2.8a3a94eb.chunk.js",
+    "static/css/main.f92c3e75.chunk.css",
+    "static/js/main.6aa95582.chunk.js"
+  ]
+}
