@@ -38,7 +38,7 @@ const AboutMe = () => {
     return (
         <>
 
-            <div className={classes.root} >
+            <div className={classes.root} id="aboutme" >
                 <div className={classes.content}>
                     <h1 style={{ fontFamily: 'Roboto' }}>Developer: Gino Tasis</h1>
                     <h3>Software Engineer Learner at Per Scholas</h3>

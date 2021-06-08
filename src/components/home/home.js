@@ -36,7 +36,6 @@ const Home = () => {
                     <Zoom in={checked} {...(checked ? { timeout: 2000 } : {})} collapsedheight={50}>
                         <div className='bodycontent'>
                             <h1 id='homeh1'>Welcome to <br /><span id='h1style'>My Apps.</span></h1>
-                            <KeyboardArrowDownOutlinedIcon className='scrolldown1' style={{ fontSize: 42 }} />
                             <KeyboardArrowDownOutlinedIcon className='scrolldown' style={{ fontSize: 50 }} />
                         </div>
                     </Zoom>
