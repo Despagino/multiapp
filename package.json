@@ -3,7 +3,7 @@
   "name": "travelapp",
   "version": "0.1.0",
   "engines": {
-    "npm": "6.x"
+    "node": "14.16.0"
   },
   "private": true,
   "dependencies": {
